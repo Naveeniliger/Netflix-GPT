@@ -1,0 +1,1 @@
+export const VITE_GEMINI_API_KEY=`AIzaSyDDE--7dJitzmkV8CUrCYUavNTU6txnCVg`
